@@ -54,10 +54,10 @@ print min(sal_list) #find the min len in the list
 
 pi_tuple = (3,4,5,5,7)
 # print pi_tuple
-# if you want to chnage in tuple in list first you have to convert in list bcz in tuple we cant chnage easily .
+# tuple to List
 new_tuple = list(pi_tuple)
 print new_tuple
-# if you want to chnage in list in tuple first you have to convert in tuple bcz in tuple we cant chnage easily 
+# list to tuple
 new_list = tuple(new_tuple)
 print new_list
 # tuple len,max,min
