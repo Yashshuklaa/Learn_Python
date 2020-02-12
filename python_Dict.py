@@ -17,6 +17,8 @@ print (cricket.get('dhoni'))#use get for getting value
 print cricket.keys()#get keys form dict
 print cricket.values()#get values form dict
 
+print('Yash')
+
 					
 
 					
